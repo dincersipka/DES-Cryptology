@@ -1,0 +1,10 @@
+D:\_Workspace\Development\Github\DesCrypto\DesCrypto\bin\Debug\DesCrypto.exe.config
+D:\_Workspace\Development\Github\DesCrypto\DesCrypto\bin\Debug\DesCrypto.exe
+D:\_Workspace\Development\Github\DesCrypto\DesCrypto\bin\Debug\DesCrypto.pdb
+D:\_Workspace\Development\Github\DesCrypto\DesCrypto\obj\Debug\DesCrypto.csproj.AssemblyReference.cache
+D:\_Workspace\Development\Github\DesCrypto\DesCrypto\obj\Debug\DesCrypto.MainForm.resources
+D:\_Workspace\Development\Github\DesCrypto\DesCrypto\obj\Debug\DesCrypto.Properties.Resources.resources
+D:\_Workspace\Development\Github\DesCrypto\DesCrypto\obj\Debug\DesCrypto.csproj.GenerateResource.cache
+D:\_Workspace\Development\Github\DesCrypto\DesCrypto\obj\Debug\DesCrypto.csproj.CoreCompileInputs.cache
+D:\_Workspace\Development\Github\DesCrypto\DesCrypto\obj\Debug\DesCrypto.exe
+D:\_Workspace\Development\Github\DesCrypto\DesCrypto\obj\Debug\DesCrypto.pdb
